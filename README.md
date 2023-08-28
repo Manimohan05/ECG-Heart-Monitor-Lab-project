@@ -19,5 +19,5 @@ analog electronics expertise to enhance signal quality while amplifying the nece
 We have to construct an analog front end that accepts data from the ECG probes and outputs
 a clean waveform of the ECG.
 
-![ECG Monitor](ECG Monitor preview.jpeg)
+![ECG Monitor](ECG Monitor preview.jpeg) 
 
