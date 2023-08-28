@@ -22,7 +22,8 @@ We have to construct an analog front end that accepts data from the ECG probes a
 a clean waveform of the ECG.
 
 <p align="center">
-  <img src="[https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/45b76bb0-027b-454b-b3cf-0df9319f408d](https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/8f232473-1b85-490d-b19f-8726d606ffde)https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/8f232473-1b85-490d-b19f-8726d606ffde">
+  <img src="https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project/assets/125986011/3c00ad8c-8bd2-4fac-99bf-6bfaf449b172">
 </p>
+
 
 
