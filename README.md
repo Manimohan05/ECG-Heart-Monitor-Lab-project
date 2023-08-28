@@ -1,15 +1,16 @@
-ECG heart monitor-2023
-
+# ECG heart monitor-2023
+## Overview
 
 In the human body, Heart is a main part. It’s like the CPU in the human body. The heart
 will control all activities of a human by sending a pulse to the brain and the parts. 
-
 
 If a difference in the heart pulse (heart rate) then it may cause death also. (Heart rate or pulse
 is the process of generation of the internal electrical signal.)
 
 So, we need to monitor the heartbeat rate regularly, So that we need to know the pulse rate
 of the internal electrical signal.
+
+## Product description
 
 A gadget that can show a real-time electrical reading of the human heart is called a heart
 ECG monitor. A suitable device should be used to show the signal. Given that the electrical
